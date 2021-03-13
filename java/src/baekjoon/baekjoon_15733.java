@@ -1,7 +1,7 @@
 package baekjoon;
 
 /**
- * @see <a href="https://www.acmicpc.net/problem/baekjoon_15733">https://www.acmicpc.net/problem/baekjoon_15733</a>
+ * @see <a href="https://www.acmicpc.net/problem/15733">https://www.acmicpc.net/problem/15733</a>
  */
 public class baekjoon_15733 {
     

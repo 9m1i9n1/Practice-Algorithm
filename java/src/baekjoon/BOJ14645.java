@@ -9,7 +9,6 @@ public class BOJ14645 {
     
     public static void main (String[] args) {
         Scanner scanner = new Scanner(System.in);
-        
         int N = scanner.nextInt();
         int K = scanner.nextInt();
         
@@ -18,6 +17,7 @@ public class BOJ14645 {
             int B = scanner.nextInt();
         }
         System.out.println("비와이");
+        scanner.close();
     }
     
 }

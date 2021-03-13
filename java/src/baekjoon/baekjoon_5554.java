@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @see <a href="https://www.acmicpc.net/problem/5554">https://www.acmicpc.net/problem/5554</a>
  */
-public class BOJ_5554 {
+public class baekjoon_5554 {
     
     public static void main (String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -1,5 +1,8 @@
 package baekjoon;
 
+/**
+ * @see <a href="https://www.acmicpc.net/problem/10718">https://www.acmicpc.net/problem/10718</a>
+ */
 public class BOJ10718 {
     
     public static void main (String[] args) {

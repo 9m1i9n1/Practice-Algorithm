@@ -14,6 +14,7 @@ public class baekjoon_2475 {
             total += Math.pow(scanner.nextDouble(), 2);
         }
         System.out.println((int) total % 10);
+        scanner.close();
     }
     
 }

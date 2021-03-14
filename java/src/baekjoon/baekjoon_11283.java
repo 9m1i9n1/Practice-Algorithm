@@ -10,7 +10,7 @@ public class baekjoon_11283 {
     public static void main (String[] args) {
         Scanner scanner = new Scanner(System.in);
         String str = scanner.nextLine();
-        System.out.println(str.codePointAt(0) - 44031);
+        System.out.println(str.codePointAt(0));
         scanner.close();
     }
     
